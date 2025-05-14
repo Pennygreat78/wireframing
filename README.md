@@ -137,3 +137,31 @@ Imagine you're building a **booking system**. A wireframe helps you decide:
 
 This prevents the development team from wasting time building features that don’t meet user needs or expectations.
 
+## Wireframing in Practice
+
+### 🧩 Real-World Scenario
+
+A development team was tasked with creating a hotel booking website. During the wireframing stage, the team designed a checkout flow that included a calendar, personal information form, and payment section. 
+
+However, after reviewing the wireframe with users and stakeholders, they noticed two major usability issues:
+- The **"Book Now"** button was placed at the top of the page instead of the bottom, confusing users who completed the form first.
+- Users were **required to create an account** before booking, which many found frustrating and unnecessary.
+
+### 🔧 Resolution
+
+Thanks to the wireframe:
+- The button was moved to the bottom, after the form and payment fields — where users naturally expected it.
+- A **“Guest Checkout”** option was added, improving conversion rates.
+
+No code had been written yet, so making these changes was quick and cost-effective.
+
+### 🎯 Impact on Final Product
+
+- The improved design increased user satisfaction.
+- The team avoided costly rework during development.
+- The product was delivered faster, with fewer post-launch changes.
+
+### 🧠 Conclusion
+
+This scenario highlights the importance of wireframing in software development. Wireframes help teams catch usability problems early, making the final product more intuitive and user-friendly. By aligning everyone around a shared visual plan, wireframing ensures a smoother design and development process.
+
