@@ -50,3 +50,38 @@ A date picker in a hotel booking form allows users to select check-in and check-
 ---
 
 Together, these elements create a wireframe that is both user-friendly and functionally effective.
+
+## Types of Wireframes
+
+Wireframes can be categorized into two main types: **Low-Fidelity** and **High-Fidelity**. Each serves a different purpose in the design and development process.
+
+### 📝 Low-Fidelity Wireframes
+
+These are basic, often hand-drawn or grayscale digital sketches. They focus on the structure and layout without distracting details like colors or images.
+
+**When to Use:**  
+- Early stages of the design process  
+- Brainstorming ideas  
+- Gathering feedback from team or clients  
+
+**Example:**  
+A black-and-white sketch showing boxes labeled "logo," "nav bar," "content area," and "footer."
+
+### 🎨 High-Fidelity Wireframes
+
+These are more detailed, polished wireframes that may include colors, fonts, images, and realistic spacing. They closely resemble the final product.
+
+**When to Use:**  
+- Later stages of design  
+- Usability testing  
+- Developer handoff  
+
+**Example:**  
+A clickable prototype with styled buttons, real text, and responsive layout simulation.
+
+---
+
+## 🧾 Wireframe Type Used Here
+
+For this project, we are using a **Low-Fidelity Wireframe** to plan and visualize the core layout and functionality before moving on to more detailed designs.
+
