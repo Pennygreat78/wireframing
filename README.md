@@ -85,3 +85,25 @@ A clickable prototype with styled buttons, real text, and responsive layout simu
 
 For this project, we are using a **Low-Fidelity Wireframe** to plan and visualize the core layout and functionality before moving on to more detailed designs.
 
+## Wireframing Tools
+
+There are several popular tools available for creating wireframes, each offering different features depending on your needs and skill level. These tools help bring your design ideas to life in a visual and interactive way.
+
+### ✨ Popular Wireframing Tools
+
+- **Figma** – A web-based collaborative design tool ideal for both low-fidelity and high-fidelity wireframes.
+- **Lucidchart** – A user-friendly diagramming tool that supports quick wireframing with drag-and-drop components.
+- **Adobe XD** – A powerful design and prototyping tool suitable for UI/UX workflows.
+- **Sketch** – A macOS-based vector design tool widely used for interface design.
+- **Balsamiq** – Best known for low-fidelity wireframes that mimic hand-drawn sketches.
+
+### 💡 Why Use Figma?
+
+**Figma** stands out as one of the most recommended tools because:
+- It’s cloud-based, so you can work from anywhere.
+- Supports real-time collaboration — multiple people can work on the same file.
+- Offers reusable design components to speed up workflow.
+- Easy to share with clients and stakeholders for feedback.
+
+Whether you’re a beginner or a seasoned designer, Figma is versatile, intuitive, and perfect for wireframing.
+
